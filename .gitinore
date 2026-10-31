@@ -1,0 +1,14 @@
+*.o
+*.out
+modulo2
+modulo2_integrado
+prueba_puertos
+validar_rango
+Makefile_anterior
+Makefile_con_error
+Makefile_respaldo
+modulo2_*respaldo*.asm
+modulo2_funcional.asm
+modulo2_antes_integracion.asm
+modulo2_menu6_funcional.asm
+modulo2_integrado.asm
